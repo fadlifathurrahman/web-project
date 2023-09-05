@@ -1,0 +1,895 @@
+@media screen and (max-width: 1336px) {
+      #landing-content-text {
+            height: 50%;
+      }
+
+      .main-title {
+            font-size: 25pt;
+      }
+
+      #paragraf-2 {
+            text-indent: 100px;
+      }
+
+      .category-description {
+            gap: 20px;
+            height: 290px;
+            margin-left: 80px;
+            padding: 20px;
+            padding-left: 170px;
+            width: 400px;
+      }
+
+      .category-picture {
+            height: 160px;
+            width: 200px;
+      }
+
+      .category-border {
+            height: 220px;
+            padding: 30px;
+            width: 200px;
+      }
+
+      .category-description h2 {
+            font-size: 16pt;
+      }
+
+      .category-description p {
+            font-size: 11pt;
+      }
+
+      .category-button {
+            font-size: 10pt;
+      }
+
+      #certificate-content {
+            gap: 20px;
+      }
+
+      .certificate-icons {
+            width: 180px;
+      }
+
+      .certificate-description {
+            font-size: 10pt;
+            width: 280px;
+      }
+
+      .products-title h1 {
+            font-size: 35pt;
+      }
+
+      .products-title>p {
+            font-size: 13pt;
+      }
+
+      .landing-account-title {
+            justify-content: center;
+            font-size: 33pt;
+      }
+
+      #landing-title-2 {
+            text-indent: 30px;
+      }
+
+      .main-title-image {
+            width: 120px;
+      }
+
+      .landing-account-desc {
+            font-size: 10pt;
+            padding: 50px;
+      }
+
+      .login-ask>h1>p {
+            font-size: 28pt;
+      }
+
+      .login-desc p {
+            font-size: 18pt;
+      }
+
+      .cafe {
+            width: 350px;
+      }
+
+      .cafe-2 {
+            width: 450px;
+      }
+
+      .about-title-1,
+      .about-title-2 {
+            font-size: 25pt;
+      }
+
+      .about-content {
+            font-size: 13px;
+            padding: 20px;
+      }
+
+      .maps {
+            width: 400px;
+            height: 300px;
+      }
+}
+
+
+
+
+
+
+@media screen and (max-width: 1030px) {
+      #landing-content-text {
+            height: 50%;
+      }
+
+      #landing-content-text p {
+            font-size: 25pt;
+      }
+
+      #landing-content-text h1 {
+            font-size: 35pt;
+      }
+
+      .category-description {
+            width: 380px;
+      }
+
+      .category-picture {
+            width: 190px;
+      }
+
+      .category-border {
+            width: 190px;
+      }
+
+      .category-description h2 {
+            font-size: 15pt;
+      }
+
+      .category-description p {
+            font-size: 9pt;
+      }
+
+      .category-button {
+            font-size: 9pt;
+      }
+
+      .certificate-icons {
+            width: 150px;
+      }
+
+      #certificate-content {
+            gap: 10px;
+      }
+
+      .certificate-description {
+            font-size: 10pt;
+            width: 250px;
+      }
+
+      #products-all>section {
+            gap: 30px;
+      }
+
+      .cafe {
+            width: 250px;
+      }
+
+      .cafe-2 {
+            width: 350px;
+      }
+
+      .about-title-1,
+      .about-title-2 {
+            font-size: 20pt;
+      }
+
+      .about-content {
+            font-size: 12px;
+            padding: 10px;
+      }
+
+      .maps {
+            width: 300px;
+            height: 200px;
+      }
+}
+
+
+
+
+@media screen and (max-width: 965px) {
+
+      .main-title {
+            font-size: 22pt;
+      }
+
+      .main-title-image {
+            width: 150px;
+      }
+
+      #paragraf-2 {
+            text-indent: 50px;
+      }
+
+      .category-description {
+            height: 260px;
+            margin-left: 40px;
+            width: 360px;
+      }
+
+      .category-picture {
+            width: 160px;
+      }
+
+      .category-border {
+            width: 160px;
+      }
+
+      .category-button {
+            font-size: 8pt;
+      }
+
+      .image-header>img {
+            height: 15vh;
+      }
+
+      #products-all>section {
+            padding: 150px 0;
+      }
+
+      .products-title h1 {
+            font-size: 30pt;
+      }
+
+      .products-title>p {
+            font-size: 11pt;
+      }
+
+      .products-container {
+            padding: 0px;
+      }
+
+      .products-border {
+            height: 150px;
+            padding: 20px;
+            width: 160px;
+            margin-right: -100px;
+      }
+
+      .products-picture {
+            width: 160px;
+            height: 150px;
+      }
+
+      .products {
+            margin-bottom: 30px;
+      }
+
+      .products-description {
+            gap: 10px;
+            height: 170px;
+            padding: 20px;
+            padding-left: 135px;
+            width: 260px;
+      }
+
+      .products-name {
+            font-size: 10pt;
+      }
+
+      .products-desc,
+      .products-price,
+      .products-available {
+            font-size: 8pt;
+      }
+
+      .landing-account-image img {
+            height: 20vh;
+      }
+
+      .landing-account-content {
+            padding: 30px;
+      }
+
+      .landing-account-title {
+            font-size: 24pt;
+      }
+
+      #landing-title-2 {
+            text-indent: 30px;
+      }
+
+      .landing-account-desc {
+            font-size: 10pt;
+            padding: 30px;
+      }
+
+      .regist-border {
+            height: 350px;
+            width: 250px;
+      }
+
+      .regist-border>img {
+            height: 350px;
+            width: 250px;
+            margin-left: 40px;
+            margin-top: 40px;
+      }
+
+      .login-container {
+            gap: 10px;
+      }
+
+      .login-ask>h1>p {
+            font-size: 26pt;
+      }
+
+      .login-desc p {
+            font-size: 18pt;
+      }
+}
+
+
+
+
+@media screen and (max-width: 769px) {
+
+      #landing-content-text {
+            height: 45%;
+      }
+
+      #landing-content-text p {
+            font-size: 20pt;
+      }
+
+      #landing-content-text h1 {
+            font-size: 30pt;
+      }
+
+      .main-title {
+            font-size: 20pt;
+      }
+
+      .main-title-image {
+            width: 100px;
+      }
+
+      .category-description h2 {
+            text-align: center;
+            font-size: 14pt;
+      }
+
+      .category-description {
+            height: 220px;
+            margin-left: 20px;
+            width: 330px;
+      }
+
+      .category-picture {
+            height: 120px;
+            width: 140px;
+      }
+
+      .category-border {
+            height: 160px;
+            width: 120px;
+      }
+
+      .category-button {
+            display: flex;
+            text-align: center;
+            font-size: 8pt;
+      }
+
+      .landing-account-content {
+            padding: 20px;
+      }
+
+      .landing-account-title {
+            font-size: 17pt;
+      }
+
+      .landing-account-desc {
+            font-size: 8pt;
+            padding: 20px;
+      }
+
+      .sign-title {
+            font-size: 15pt;
+      }
+
+      .sign-desc {
+            font-size: 10pt;
+      }
+
+      label b {
+            font-size: 10pt;
+      }
+
+      input[type=text],
+      input[type=password] {
+            font-size: 10pt;
+            padding: 5px;
+      }
+
+      .regist-border {
+            height: 300px;
+            width: 200px;
+      }
+
+      .regist-border>img {
+            height: 300px;
+            width: 200px;
+            margin-left: 40px;
+            margin-top: 40px;
+      }
+
+      .login-container {
+            gap: 0px;
+      }
+
+      .login-ask>h1>p {
+            font-size: 20pt;
+      }
+
+      .login-desc p {
+            font-size: 15pt;
+      }
+
+      label {
+            font-size: 10pt;
+      }
+
+      form>p {
+            font-size: 10pt;
+      }
+
+}
+
+
+
+
+
+@media screen and (max-width: 625px) {
+      #logo {
+            width: 180px;
+            height: 100px;
+      }
+
+      .open-button,
+      .menu-button {
+            font-size: 15px;
+            padding: 10px;
+            width: 100px;
+      }
+
+      #landing-content-text {
+            height: 30%;
+      }
+
+      #landing-content-text p {
+            font-size: 17pt;
+      }
+
+      #landing-content-text h1 {
+            font-size: 27pt;
+      }
+
+      .top-arrow>a {
+            font-size: 13pt;
+            height: 35px;
+            margin: 10px;
+            width: 35px;
+      }
+
+      .main-title-image {
+            width: 80px;
+      }
+
+      .main-title>h1>p {
+            font-size: 20pt;
+      }
+
+      #paragraf-2 {
+            text-indent: 30px;
+      }
+
+      #category-container {
+            padding: 30px 0;
+      }
+
+      .category-description h2 {
+            text-align: center;
+            font-size: 12pt;
+      }
+
+      .category-description p {
+            font-size: 9pt;
+      }
+
+      .category-description {
+            height: 200px;
+            margin-left: 20px;
+            width: 350px;
+      }
+
+      .category-picture {
+            height: 120px;
+            width: 140px;
+      }
+
+      .category-border {
+            height: 160px;
+            width: 120px;
+      }
+
+      .category-button {
+            font-size: 8pt;
+      }
+
+      .certificate-icons {
+            width: 80px;
+      }
+
+      #certificate-content {
+            gap: 10px;
+      }
+
+      #certificate-content article {
+            text-align: center;
+            width: 160px;
+      }
+
+      .certificate-name {
+            font-size: 7pt;
+      }
+
+      .products {
+            margin-bottom: 20px;
+      }
+
+      .certificate-description {
+            font-size: 5pt;
+            padding: 10px;
+            width: 160px;
+      }
+
+      .regist-container {
+            justify-content: space-around;
+      }
+
+      .about-items,
+      .about-location {
+            margin-bottom: 50px;
+            margin-top: 50px;
+      }
+
+      .cafe {
+            width: 200px;
+      }
+
+      .cafe-2 {
+            width: 250px;
+      }
+
+      .about-title-1,
+      .about-title-2 {
+            font-size: 15pt;
+      }
+
+      .about-content {
+            font-size: 10px;
+            padding: 20px;
+      }
+
+      .maps {
+            width: 250px;
+            height: 150px;
+      }
+}
+
+
+
+
+@media screen and (max-width: 530px) {
+      .main-title-image {
+            width: 70px;
+      }
+
+      .main-title>h1>p {
+            font-size: 17pt;
+      }
+
+      .landing-account-desc {
+            font-size: 7pt;
+            padding: 10px;
+      }
+
+      .sign-title {
+            font-size: 13pt;
+      }
+
+      .sign-desc {
+            font-size: 8pt;
+      }
+
+      label b {
+            font-size: 8pt;
+      }
+
+      .regist-border {
+            height: 250px;
+            width: 150px;
+      }
+
+      .regist-border>img {
+            height: 250px;
+            width: 150px;
+            margin-left: 40px;
+            margin-top: 40px;
+      }
+
+      .login-ask>h1>p {
+            font-size: 18pt;
+      }
+
+      .login-desc p {
+            font-size: 13pt;
+      }
+
+      .landing-account-image img {
+            height: 8vh;
+      }
+
+      .cafe {
+            width: 150px;
+      }
+
+      .cafe-2 {
+            width: 155px;
+      }
+
+      .about-title-1,
+      .about-title-2 {
+            font-size: 10pt;
+      }
+
+      .about-content {
+            font-size: 7px;
+            padding: 20px;
+      }
+
+      .maps {
+            width: 150px;
+            height: 100px;
+      }
+}
+
+
+
+
+@media screen and (max-width: 426px) {
+      #logo {
+            width: 120px;
+            height: 70px;
+      }
+
+      .open-button,
+      .menu-button {
+            background-color: #444;
+            font-size: 10px;
+            padding: 5px;
+            width: 60px;
+      }
+
+      #landing-content-text {
+            height: 15%;
+      }
+
+      #landing-content-text p {
+            font-size: 10pt;
+      }
+
+      #landing-content-text h1 {
+            font-size: 15pt;
+      }
+
+      .main-title-image {
+            width: 50px;
+      }
+
+      .main-title>h1>p {
+            font-size: 13pt;
+      }
+
+      #paragraf-2 {
+            text-indent: 30px;
+      }
+
+      #category-container {
+            padding: 30px 0;
+      }
+
+      #category-content {
+            gap: 10px;
+      }
+
+      .category-description h2 {
+            text-align: left;
+            font-size: 10pt;
+      }
+
+      .category-description p {
+            font-size: 7pt;
+      }
+
+      .category-description {
+            height: 160px;
+            gap: 5px;
+            margin-left: 40px;
+            padding: 20px;
+            padding-left: 100px;
+            width: 260px;
+      }
+
+      .category-picture {
+            height: 80px;
+            width: 100px;
+      }
+
+      .category-border {
+            height: 120px;
+            width: 100px;
+      }
+
+      .category-button {
+            display: flex;
+            text-align: center;
+            font-size: 6pt;
+            padding: 5px;
+      }
+
+      .certificate-icons {
+            width: 80px;
+      }
+
+      #certificate-content {
+            gap: 10px;
+      }
+
+      #certificate-content article {
+            text-align: center;
+            width: 100px;
+      }
+
+      .certificate-name {
+            font-size: 7pt;
+      }
+
+      .certificate-description {
+            font-size: 5pt;
+            padding: 10px;
+            width: 100px;
+      }
+
+      #products-all>section {
+            padding: 100px 0;
+      }
+
+
+      .products-title h1 {
+            font-size: 22pt;
+      }
+
+      .products-title>p {
+            font-size: 8pt;
+      }
+
+      .products-container {
+            gap: 0px;
+      }
+
+      .products-border {
+            height: 100px;
+            padding: 10px;
+            width: 120px;
+            margin-right: -100px;
+      }
+
+      .products-picture {
+            width: 120px;
+            height: 100px;
+      }
+
+
+      .products-description {
+            gap: 5px;
+            height: 120px;
+            padding: 5px;
+            padding-left: 120px;
+            width: 260px;
+      }
+
+      .products-name {
+            font-size: 9pt;
+      }
+
+      .products-desc,
+      .products-price,
+      .products-available {
+            font-size: 7pt;
+      }
+
+      .landing-account-content {
+            display: flex;
+            flex-direction: column;
+      }
+
+      .regist-container {
+            display: flex;
+            gap: 50px;
+            margin-bottom: 30px;
+      }
+
+      form>p {
+            font-size: 8pt;
+      }
+
+      .regist-container>div {
+            align-items: center;
+            display: flex;
+            text-align: center;
+            width: 80%;
+      }
+
+      .regist-border {
+            height: 250px;
+            width: 150px;
+      }
+
+      .regist-border>img {
+            height: 250px;
+            width: 150px;
+            margin-left: 40px;
+            margin-top: 40px;
+      }
+
+      .login-ask>h1>p {
+            font-size: 10pt;
+      }
+
+      .login-desc {
+            gap: 5px;
+      }
+
+      .login-desc p {
+            text-align: center;
+            font-size: 8pt;
+      }
+      
+      .cafe {
+            width: 120px;
+      }
+
+      .cafe-2 {
+            width: 130px;
+      }
+
+      .about-title-1,
+      .about-title-2 {
+            font-size: 10pt;
+      }
+
+      .about-content {
+            font-size: 7px;
+            padding: 10px;
+      }
+
+      .maps {
+            width: 130px;
+            height: 100px;
+      }
+}
